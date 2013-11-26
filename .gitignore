@@ -7,9 +7,13 @@ lib-cov
 *.pid
 *.gz
 
+*.iml
+.idea
+
 pids
 logs
 results
+public/lib
 
 npm-debug.log
 node_modules
